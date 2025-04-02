@@ -1,0 +1,1 @@
+﻿# Research FFmpeg with .NET Core
